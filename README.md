@@ -1,1 +1,2 @@
-# Payroll-System
+# Employee - Payroll System
+This project bases on core java A payroll system Project that organizations use to manage employee compensation and related financial transactions. It automates salary calculations, tax deductions, and payment processing, ensuring accurate and compliant payroll operations. It also maintains employee records, supports time tracking, and generates reports, contributing to the efficient and secure handling of payroll matters.
